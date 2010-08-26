@@ -1,6 +1,6 @@
 //
 //  SCTaskWrapper.m
-//  PhotoCapture360
+//  SCTaskWrapper
 //
 //  Created by vincent on 8/25/10.
 //  Copyright 2010 Ortery Technologies, Inc. All rights reserved.

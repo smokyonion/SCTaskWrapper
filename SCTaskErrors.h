@@ -1,6 +1,6 @@
 //
 //  SCTaskError.h
-//  PhotoCapture360
+//  SCTaskWrapper
 //
 //  Created by vincent on 8/26/10.
 //  Copyright 2010 Ortery Technologies, Inc. All rights reserved.

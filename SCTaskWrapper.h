@@ -1,6 +1,6 @@
 //
 //  SCTaskWrapper.h
-//  PhotoCapture360
+//  SCTaskWrapper
 //	
 //	Based on AMShellWrapper by Andreas Mayer
 //
